@@ -3,8 +3,7 @@
 This project is a simple interactive animation of bubbles continuously moving across the screen. When a bubble is tapped/clicked, it bursts with a delightful animation.
 
 ## Demo
-
-[Insert GIF or link to a demo video showcasing the animation here]
+https://github.com/lvivek260/Bubble_Tap_Animation/assets/111556464/64cb5fb1-bfba-4f7b-84ee-1cafc3cbfda4
 
 ## Features
 
